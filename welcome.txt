@@ -1,5 +1,11 @@
 hello
 nice to meet you
 
+<<<<<<< HEAD
 
 hsfhs
+=======
+m1
+
+m2
+>>>>>>> refs/remotes/origin/master
