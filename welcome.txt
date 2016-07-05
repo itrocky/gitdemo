@@ -1,4 +1,15 @@
 hello
 nice to meet you
 
+<<<<<<< HEAD
 xiugai soft
+=======
+<<<<<<< HEAD
+
+hsfhs
+=======
+m1
+
+m2
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 3a9e488248aaa77b1c379f0356e66cf3dce5e5e6
